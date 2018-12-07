@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package com.pingan.lcs.report.ui.mvc;
+package com.pingan.lcs.report.web.mvc;
 
 import javax.validation.Valid;
 
@@ -25,8 +25,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.pingan.lcs.report.ui.Message;
-import com.pingan.lcs.report.ui.MessageRepository;
+import com.pingan.lcs.report.web.Message;
+import com.pingan.lcs.report.web.MessageRepository;
 
 /**
  * @author Rob Winch

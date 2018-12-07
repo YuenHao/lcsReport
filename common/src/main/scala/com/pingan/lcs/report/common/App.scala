@@ -1,4 +1,4 @@
-package com.pingan.lcs.report
+package com.pingan.lcs.report.common
 
 /**
  * Hello world!

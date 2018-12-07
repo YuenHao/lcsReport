@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.pingan.lcs.report.ui;
+package com.pingan.lcs.report.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

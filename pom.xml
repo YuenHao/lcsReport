@@ -11,6 +11,7 @@
         <module>common</module>
         <module>web</module>
         <module>streaming</module>
+        <module>study</module>
     </modules>
 
     <properties>
